@@ -15,6 +15,7 @@ Sale NFTs:
 https://opensea.io/collection/grv-project-nfts
 
 📚 Official Documentation (Recommended Reading Order):
+
 📜 GRV NFT Collection.pdf
 Introduces the official GRV NFT collection. Each NFT is backed by a fixed amount of GRV tokens, representing a unique, transferable, and auditable unit of value. Serves as an entry point to the project's value structure.
 
